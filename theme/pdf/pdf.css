@@ -20,7 +20,9 @@
  margin-top: 1in;
  @top-center {
   content: "The Future of Book Publishing Lies in Your Web Browser\2424Sanders Kleinfeld";
+  display: block;
   text-align: center;
+  font-size: 24pt;
  }
 }
   
