@@ -5,7 +5,7 @@
   @top-center {
     background-color: #F58B31;
     color: white;
-    content: string(SectTitle);
+    content: string(SectTitle, first);
     font-family: Lato;
     font-weight: bold;
   }
