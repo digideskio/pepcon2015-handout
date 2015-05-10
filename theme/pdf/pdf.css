@@ -29,6 +29,20 @@
  }
 }
   
-  section[data-type="sect1"] h1 {
+  section[data-type="sect1"] h1, section[data-type="sect2"] h2 {
+   font-family: Lato;
    string-set: SectTitle self;
   }
+
+  section[data-type="sect1"] h1 {
+   font-weight: bold;
+   font-size: 18pt;
+  }
+  
+  section[data-type="sect2"] h2 {
+   font-size: 14pt;
+  }
+  
+ body {
+  font-family: MinionPro;
+ }
