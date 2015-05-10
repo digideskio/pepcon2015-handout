@@ -1,4 +1,4 @@
-@page {
+x@page {
  size: 8.5in 11in; /* letter size */
  margin: 0.25in 0.5in 0.25in 0.5in; /* 0.25in margin top/bottom; 0.5in margin sides */
   
@@ -19,7 +19,7 @@
 @page :first {
  margin-top: 1in;
  @top-center {
-  content: "The Future of Book Publishing Lies in Your Web Browser \2192 Sanders Kleinfeld";
+  content: "The Future of Book Publishing Lies in Your Web Browser" "\2192" "Sanders Kleinfeld";
   display: block;
   text-align: center;
   font-size: 24pt;
