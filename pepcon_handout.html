@@ -122,6 +122,7 @@
   
   <section data-type="sect2">
    <h2>Selecting elements</h2>
+   
    <p>By tag name:</p>
    <pre data-type="programlisting">$("h2")</pre>
    <p>By class:</p>
@@ -130,7 +131,16 @@
    <pre data-type="programlisting">$("h2.heading</pre>
    <p>By id:</p>
    <pre data-type="programlisting">$("#footnotes")</pre>
-
+   <p>By parent tag name and tag name:</p>
+   <pre data-type="programlisting">$("section h2")</pre>
+  </section>
+  
+  <section data-type="sect2">
+   <h2>Showing/hiding elements</h2>
+   <p>Use <code>show()</code> to <em>turn on</em> display of selected elements:</p>
+   <pre data-type="programlisting">$(".sidebar").show();</pre>
+   <p>And <code>hide()</code> to <em>turn off</em> display of selected elements:</p>
+   <pre data-type="programlisting">$(".sidebar").hide();</pre>
   </section>
   
   </section> 
