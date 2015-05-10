@@ -15,6 +15,12 @@
     background-color: #9C867C;
   }
 }
+
+@page :first {
+ @top-center {
+  content: "The Future of Book Publishing Lies in Your Web Browser";
+ }
+}
   
   section[data-type="chapter"] h1 {
    string-set: ChapterTitle;
