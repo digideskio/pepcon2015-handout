@@ -20,12 +20,10 @@
 }
 
 @page :first {
- margin-top: 1in;
+ margin-top: 0.25in;
  @top-center {
-  content: "The Future of Book Publishing Lies in Your Web Browser";
-  display: block;
-  text-align: center;
-  font-size: 24pt;
+  background-color: white;
+  content: "";
  }
 }
   
