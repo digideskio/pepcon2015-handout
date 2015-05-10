@@ -19,7 +19,7 @@
 @page :first {
  margin-top: 1in;
  @top-center {
-  content: "The Future of Book Publishing Lies in Your Web Browser\0048Sanders Kleinfeld";
+  content: "The Future of Book Publishing Lies in Your Web Browser";
   display: block;
   text-align: center;
   font-size: 18pt;
