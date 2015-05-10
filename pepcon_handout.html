@@ -95,4 +95,30 @@
    <pre data-type="programlisting">$ git log ch10.html</pre> 
   </section>
  </section>
+ 
+  <section data-type="sect1" class="cheat-sheet">
+  <h1>jQuery Cheat Sheet</h1>
+  
+  <section data-type="sect2">
+   <h2>HTML file setup</h2>
+   <p>Include <code>script</code> elements for both the jQuery library and your custom JavaScript in the <code>head</code>:</p>
+   
+   <pre data-type="programlisting">&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;My Interactive eBook&;lt;/title&gt;
+    &lt;script src="jquery-1.6.2.min.js"&gt;&lt;/script&gt;
+    &lt;script src="my_custom_jquery.js"&gt;&lt;/script&gt;
+    ...
+   </pre>
+  </section>
+  
+  <section data-type="sect2">
+    <h2>Custom jQuery skeleton</h2>
+    <p>Start with the following in your custom jQuery script file:</p>
+    <pre data-type="programlisting">$(document).ready(function() {
+  // Your custom code will go here
+});</pre>
+  </section>
+  
+  </section>
  </section>
