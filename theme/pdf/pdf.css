@@ -5,6 +5,7 @@
   @top-center {
     background-color: #F58B31;
     color: white;
+    content: SectTitle content(text);
   }
   
   @top-left-corner {
