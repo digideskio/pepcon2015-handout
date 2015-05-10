@@ -6,6 +6,8 @@
     background-color: #F58B31;
     color: white;
     content: string(SectTitle);
+    font-family: Lato;
+    font-weight: bold;
   }
   
   @top-left-corner {
@@ -24,8 +26,6 @@
   display: block;
   text-align: center;
   font-size: 24pt;
-  font-family: Lato;
-  font-weight: bold;
  }
 }
   
