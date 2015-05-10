@@ -28,6 +28,6 @@
  }
 }
   
-  section[data-type="chapter"] h1 {
-   string-set: ChapterTitle;
+  section[data-type="sect1"] h1 {
+   string-set: SectTitle self;
   }
