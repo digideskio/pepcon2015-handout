@@ -1,1 +1,10 @@
-/* Add your custom CSS styles for the PDF here */
+@page {
+ size: 8.5in 11in; /* letter size */
+ margin: 0.25in 0.5in 0.5in 0.25in; /* 0.25in margin top/bottom; 0.5in margin sides */
+}
+
+ @page :left, @page :right {
+   @top-center {
+     background-color: #9C867C;
+     content: string(ChapterTitle);
+}
