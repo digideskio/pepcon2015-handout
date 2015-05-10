@@ -1,6 +1,6 @@
 @page {
  size: 8.5in 11in; /* letter size */
- margin: 0.25in 0.5in 0.25in 0.5in; /* 0.25in margin top/bottom; 0.5in margin sides */
+ margin: 0.25in 0.75in 0.25in 0.75in; /* 0.25in margin top/bottom; 0.5in margin sides */
   
   @top-center {
     background-color: #F58B31;
