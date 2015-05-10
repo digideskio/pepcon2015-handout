@@ -1,6 +1,8 @@
 {
   "branch": "master",
-  "files": [],
+  "files": [
+    "pepcon_handout.html"
+  ],
   "formats": {
     "pdf": {
       "version": "web",
