@@ -30,5 +30,5 @@
 }
   
   section[data-type="sect1"] h1 {
-   string-set: SectTitle content(text);
+   string-set: SectTitle self;
   }
