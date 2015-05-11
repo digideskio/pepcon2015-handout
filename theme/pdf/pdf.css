@@ -38,6 +38,7 @@
 section[data-type="chapter"] header {
  font-family: Lato;
  text-align: center;
+ margin-bottom: 15pt;
 }
 
 section[data-type="chapter"] header::before {
