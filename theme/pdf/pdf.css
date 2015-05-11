@@ -43,6 +43,7 @@ section[data-type="chapter"] header {
 
 section[data-type="chapter"] header h1 {
  font-size: 24pt;
+ margin-bottom: 3pt;
 }
 
 section[data-type="chapter"] header p {
