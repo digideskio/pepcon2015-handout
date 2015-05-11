@@ -113,7 +113,7 @@ body {
 dt {
  color: #F58B31;
  font-size: 12pt;
- margin-bottom: 0.3em;
+ margin-bottom: 0.1em;
 }
 
 a, .print_url_in_parens {
@@ -121,7 +121,7 @@ a, .print_url_in_parens {
 }
 
 .print_url_in_parens {
- font-size: italic;
+ font-style: italic;
 }
 
 pre {
