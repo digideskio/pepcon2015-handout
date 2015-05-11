@@ -88,7 +88,7 @@ dt {
 }
 
 pre {
- font-family: UbuntuMono;
+ font-family: UbuntuMono, monospace;
  background-color: rgba(156, 134, 124, 0.3);
  border: 1px solid #F58B31;
  padding: 6px;
