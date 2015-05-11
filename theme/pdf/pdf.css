@@ -66,6 +66,7 @@ section[data-type="chapter"] header p {
   section[data-type="sect1"] h1, section[data-type="sect2"] h2 {
    font-family: Lato;
    string-set: SectTitle self;
+   color: #9C867C;
   }
 
   section[data-type="sect1"] h1 {
