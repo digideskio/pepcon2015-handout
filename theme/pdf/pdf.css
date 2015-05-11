@@ -62,27 +62,27 @@ section[data-type="chapter"] header p {
  font-style: italic;
  color: #9C867C;
 }
+  
+section[data-type="sect1"] h1, section[data-type="sect2"] h2 {
+ font-family: Lato;
+ string-set: SectTitle self;
+ color: #9C867C;
+}
 
+section[data-type="sect1"] h1 {
+ font-weight: bold;
+ font-size: 18pt;
+}
   
-  section[data-type="sect1"] h1, section[data-type="sect2"] h2 {
-   font-family: Lato;
-   string-set: SectTitle self;
-   color: #9C867C;
-  }
-
-  section[data-type="sect1"] h1 {
-   font-weight: bold;
-   font-size: 18pt;
-  }
+section[data-type="sect2"] h2 {
+ font-size: 14pt;
+}
   
-  section[data-type="sect2"] h2 {
-   font-size: 14pt;
-  }
-  
- body {
-  font-family: MinionPro;
- }
+body {
+ font-family: MinionPro;
+}
  
- dt {
-  color: #F58B31;
- }
+dt {
+ color: #F58B31;
+ font-weight: bold;
+}
