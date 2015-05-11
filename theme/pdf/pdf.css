@@ -13,10 +13,12 @@
   
   @top-left-corner {
     background-color: #9C867C;
+    margin-bottom: 20px;
   }
   
   @top-right-corner {
     background-color: #9C867C;
+    margin-bottom: 20px;
   }
 }
 
