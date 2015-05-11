@@ -43,7 +43,7 @@ section[data-type="chapter"] header {
 
 section[data-type="chapter"] header h1:before {
  content: url('pepcon_logo.png');
- width: 100px;
+ display: block;
 }
 
 section[data-type="chapter"] header h1 {
