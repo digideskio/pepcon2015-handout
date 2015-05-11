@@ -86,3 +86,7 @@ dt {
  color: #F58B31;
  font-weight: bold;
 }
+
+pre {
+ font-family: UbuntuMono;
+}
