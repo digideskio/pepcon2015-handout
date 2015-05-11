@@ -42,7 +42,7 @@ section[data-type="chapter"] header {
 }
 
 section[data-type="chapter"] header h1::before {
- content: url("pepcon_logo.png");
+ content: "HI";
 }
 
 section[data-type="chapter"] header h1 {
