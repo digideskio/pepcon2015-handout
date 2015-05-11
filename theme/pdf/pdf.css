@@ -51,7 +51,7 @@ section[data-type="chapter"] header h1::before {
 
 section[data-type="chapter"] header h1 {
  font-size: 24pt;
- margin-bottom: 20pt;
+ margin-bottom: 15pt;
  font-weight: bold;
 }
 
