@@ -50,6 +50,7 @@ section[data-type="chapter"] header::before {
 section[data-type="chapter"] header h1 {
  font-size: 24pt;
  margin-bottom: 3pt;
+ font-weight: bold;
 }
 
 section[data-type="chapter"] header p {
