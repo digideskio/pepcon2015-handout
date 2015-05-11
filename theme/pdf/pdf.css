@@ -17,6 +17,7 @@
     color: white;
     padding: 3pt;
     font-family: Lato;
+    font-weight: bold;
   }
   
   @top-right-corner {
@@ -25,6 +26,7 @@
     color: white;
     padding: 3pt;
     font-family: Lato;
+    font-weight: bold;
   }
 }
 
