@@ -46,6 +46,7 @@ section[data-type="chapter"] header h1::before {
  display: block;
  float: left;
  width: 25%;
+ margin-right: 2em;
 }
 
 section[data-type="chapter"] header h1 {
