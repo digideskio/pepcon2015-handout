@@ -22,6 +22,18 @@
   }
 }
 
+@page :left {
+ @top-left-corner {
+  content: counter(page);
+ }
+}
+
+@page :right {
+ @top-right-corner {
+  content: counter(page);
+ }
+}
+
 @page :first {
  margin-top: 0.1in;
  @top-center {
