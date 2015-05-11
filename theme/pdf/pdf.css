@@ -25,6 +25,14 @@
   background-color: white;
   content: "";
  }
+ 
+  @top-left-corner {
+    background-color: white;
+  }
+  
+  @top-right-corner {
+    background-color: white;
+  }
 }
 
 section[data-type="chapter"] header {
