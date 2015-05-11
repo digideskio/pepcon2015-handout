@@ -71,6 +71,7 @@ section[data-type="chapter"] header::before {
  width: 25%;
  margin-right: 1em;
  margin-top: 2em;
+ margin-bottom: 3em;
 }
 
 section[data-type="chapter"] header h1 {
