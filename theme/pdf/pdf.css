@@ -8,6 +8,7 @@
     content: string(SectTitle, first);
     font-family: Lato;
     font-weight: bold;
+    margin-bottom: 20px;
   }
   
   @top-left-corner {
