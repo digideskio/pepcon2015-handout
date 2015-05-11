@@ -31,14 +31,14 @@
 @page :left {
  @top-left-corner {
   content: counter(page);
-  padding-right: 1em;
+  padding-right: 0.5em;
  }
 }
 
 @page :right {
  @top-right-corner {
   content: counter(page);
-  padding-left: 1em;
+  padding-left: 0.5em;
  }
 }
 
