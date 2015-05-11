@@ -116,6 +116,7 @@ dt {
 }
 
 pre {
+ margin-top: 3pt;
  font-family: UbuntuMono, monospace;
  background-color: rgba(156, 134, 124, 0.1);
  border: 1px solid #9C867C;
