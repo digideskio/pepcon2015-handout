@@ -26,6 +26,21 @@
   content: "";
  }
 }
+
+section[data-type="chapter"] header {
+ color: #9C867C;
+ font-family: Lato;
+ text-align: center;
+}
+
+section[data-type="chapter"] header h1 {
+ font-size: 24pt;
+}
+
+section[data-type="chapter"] header h1 {
+ font-size: 16pt;
+}
+
   
   section[data-type="sect1"] h1, section[data-type="sect2"] h2 {
    font-family: Lato;
