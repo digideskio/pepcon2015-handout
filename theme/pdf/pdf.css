@@ -120,8 +120,12 @@ a, .print_url_in_parens {
  color: #F58B31;
 }
 
-.print_url_in_parens {
+.print_url {
  font-style: italic;
+}
+
+code {
+ font-family: UbuntuMono, monospace;
 }
 
 pre {
