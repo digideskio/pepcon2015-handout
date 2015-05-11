@@ -14,11 +14,17 @@
   @top-left-corner {
     background-color: #9C867C;
     margin-bottom: 20px;
+    color: white;
+    padding: 3pt;
+    font-family: Lato;
   }
   
   @top-right-corner {
     background-color: #9C867C;
     margin-bottom: 20px;
+    color: white;
+    padding: 3pt;
+    font-family: Lato;
   }
 }
 
