@@ -54,6 +54,7 @@ section[data-type="chapter"] header h1 {
 
 section[data-type="chapter"] header p {
  font-size: 16pt;
+ font-style: italic;
 }
 
   
