@@ -15,7 +15,6 @@
     background-color: #9C867C;
     margin-bottom: 20px;
     color: white;
-    padding: 3pt;
     font-family: Lato;
     font-weight: bold;
   }
@@ -24,7 +23,6 @@
     background-color: #9C867C;
     margin-bottom: 20px;
     color: white;
-    padding: 3pt;
     font-family: Lato;
     font-weight: bold;
   }
@@ -33,14 +31,14 @@
 @page :left {
  @top-left-corner {
   content: counter(page);
-  margin-right: 1em;
+  padding-right: 1em;
  }
 }
 
 @page :right {
  @top-right-corner {
   content: counter(page);
-  margin-left: 1em;
+  padding-left: 1em;
  }
 }
 
