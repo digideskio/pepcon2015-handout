@@ -119,6 +119,10 @@ a::after {
  content: "YO";
 }
 
+dt::after {
+ content: "Hey";
+}
+
 pre {
  margin-top: 3pt;
  margin-bottom: 3pt;
