@@ -116,7 +116,7 @@ dt {
 }
 
 a::after {
- content: none;
+ content: "YO";
 }
 
 pre {
