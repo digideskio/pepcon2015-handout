@@ -20,7 +20,7 @@
 }
 
 @page :first {
- margin-top: 0.25in;
+ margin-top: 0.1in;
  @top-center {
   background-color: white;
   content: "";
