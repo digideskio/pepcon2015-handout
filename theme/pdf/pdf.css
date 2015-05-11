@@ -41,7 +41,7 @@ section[data-type="chapter"] header {
  text-align: center;
 }
 
-section[data-type="chapter"] header::before {
+section[data-type="chapter"] header h1::before {
  content: url("pepcon_logo.png");
 }
 
