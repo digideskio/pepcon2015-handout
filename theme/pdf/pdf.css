@@ -151,6 +151,11 @@ aside h6 {
  color: #9C867C;
 }
 
+aside#about-the-book {
+ position: absolute;
+ bottom: -3em;
+}
+
 aside .print_url_in_parens {
  display: none;
 }
