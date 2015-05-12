@@ -108,6 +108,10 @@ section[data-type="sect2"] h2 {
 section.cheat-sheet {
  page-break-before: always;
 }
+
+.pagebreak-before {
+ page-break-before: always;
+}
   
 body {
  font-family: MinionPro;
