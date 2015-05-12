@@ -149,7 +149,8 @@ aside h6 {
  font-family: Lato;
  font-size: 14pt;
  color: #9C867C;
- margin-top: 1em;
+ margin-top: 0.5em;
+ margin-bottom: 0.5em;
 }
 
 aside#about-the-pdf {
