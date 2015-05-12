@@ -137,3 +137,18 @@ pre {
  border: 1px solid #9C867C;
  padding: 6px;
 }
+
+/* Sidebar styling */
+aside {
+ border: 2px solid #F58B31;
+}
+
+aside h6 {
+ font-family: Lato;
+ font-size: 14pt;
+ color: #9C867C;
+}
+
+aside .print_url_in_parens {
+ display: none;
+}
