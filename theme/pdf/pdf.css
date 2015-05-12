@@ -148,6 +148,7 @@ aside h6 {
  font-size: 14pt;
  color: #9C867C;
  padding: 1em;
+ background-color: rgba(240, 119, 38, 0.1);
 }
 
 aside .print_url_in_parens {
