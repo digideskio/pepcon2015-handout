@@ -85,6 +85,8 @@ section[data-type="chapter"] header p {
  font-size: 16pt;
  font-style: italic;
  color: #9C867C;
+ margin-top: 0;
+ margin-bottom: 0;
 }
   
 section[data-type="sect1"] h1, section[data-type="sect2"] h2 {
