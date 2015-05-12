@@ -154,7 +154,7 @@ aside h6 {
 
 aside#about-the-pdf {
  position: absolute;
- bottom: -3in;
+ bottom: 3in;
 }
 
 aside .print_url_in_parens {
