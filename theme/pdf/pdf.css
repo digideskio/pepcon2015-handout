@@ -149,11 +149,12 @@ aside h6 {
  font-family: Lato;
  font-size: 14pt;
  color: #9C867C;
+ margin-top: 1em;
 }
 
 aside#about-the-pdf {
  position: absolute;
- bottom: -3em;
+ bottom: -6em;
 }
 
 aside .print_url_in_parens {
