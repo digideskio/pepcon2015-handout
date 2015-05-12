@@ -162,3 +162,8 @@ aside#about-the-pdf {
 aside .print_url_in_parens {
  display: none;
 }
+
+aside p {
+ margin-top: 1em;
+ margin-bottom: 1em;
+}
